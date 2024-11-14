@@ -14,7 +14,7 @@ Aplikasi ini adalah program sederhana yang memungkinkan pengguna untuk memasukka
 - Hasil pemeriksaan (genap/ganjil dan prima/bukan prima) ditampilkan di layar.
 - Menampilkan pesan kesalahan jika input bukan angka.
 - Membatasi input hanya untuk angka.
-- Warna latar belakang hijau tua dan teks berwarna hijau cerah.
+- Warna latar belakang hijau tua.
 
 ## Prasyarat
 
